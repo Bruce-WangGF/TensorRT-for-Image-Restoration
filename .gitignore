@@ -20,4 +20,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
-*.md linguist-language=C++
+*.cpp linguist-language=C++
+*.c linguist-language=C++
+*.cu linguist-language=C++
